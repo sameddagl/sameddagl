@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **IOS Programming with Swift**
 
-- 👨‍💻 All of my projects are available at [sameddagl.me](sameddagl.me)
+- 👨‍💻 All of my projects are available at [sameddagli.me](sameddagli.me)
 
 - 📫 How to reach me **samed.dagli@outlook.com**
 
