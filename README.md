@@ -6,9 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameddagl" alt="sameddagl" /></a> </p>
 
 - 🌱 I’m currently learning **IOS Programming with Swift**
-
-- 👨‍💻 All of my projects are available at [sameddagli.me](http://sameddagli.me/)
-
 - 📫 How to reach me **samed.dagli@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
