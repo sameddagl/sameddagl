@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samed Dağlı</h1>
 <h3 align="center">👨🏻‍💻 iOS Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameddagl&label=Profile%20views&color=0e75b6&style=flat" alt="sameddagl" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameddagl" alt="sameddagl" /></a> </p>
-
 - Focuise, a pomodoro app, is now live on [App Store](https://apple.co/3WwILYp)
 - 🌱 I’m currently learning **iOS Programming with Swift**
 - 📫 How to reach me **samed.dagli@outlook.com**
