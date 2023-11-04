@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samed Dağlı</h1>
 <h3 align="center">👨🏻‍💻 iOS Developer</h3>
 
+- LingoGenie, your english partner, is now live on [App Store](https://apps.apple.com/tr/app/learn-english-with-lingogenie/id6449253661)
 - Focuise, a pomodoro app, is now live on [App Store](https://apple.co/3WwILYp)
 - 🌱 I’m currently learning **iOS Programming with Swift**
 - 📫 How to reach me **samed.dagli@outlook.com**
